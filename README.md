@@ -8,7 +8,7 @@ This repository provides the necessary code to construct gene expression regulat
 - Example notebook demonstrating usage
 
 ### Installation:
-To utilize this codebase, you will need to install the scpy4reactome package. Follow the instructions provided at https://github.com/reactome-fi/fi_sc_analysis/tree/master/python for installation details.
+To utilize this codebase, you will need to install the scpy4reactome package. Follow the instructions provided at https://github.com/reactome-fi/fi_sc_analysis/tree/master/python for installation details. We used Python 3.7.
 
 ### Usage:
 1. Preprocess your scRNA-seq data to prepare it for network construction.
@@ -17,7 +17,7 @@ To utilize this codebase, you will need to install the scpy4reactome package. Fo
 4. Utilize the resulting networks to analyze TF and pathway interactions and their impact on gene expression regulation.
 5. Load the network into ReactomeFIViz, a Cytoscape App, for fuzzy logic based simulation. For more information about this, see https://reactome.org/userguide/reactome-fiviz. 
 
-Note: Additional instructions and guidelines will be provided within the repository soon to assist with specific usage scenarios.
+Note: Additional instructions and guidelines will be provided within the repository soon to assist with specific usage scenarios. The code here is still in a very early stage with many hard-coded file names. Please let us know if you'd like to try but with errors.
 
 ### Contributing:
 Contributions, bug reports, and feature requests are welcome.
