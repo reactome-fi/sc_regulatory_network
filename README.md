@@ -1,7 +1,7 @@
 ## Gene Expression Regulatory Network Construction with TFs and Pathways using scRNA-seq Data
 
 ### Description:
-This repository provides the necessary code to construct gene expression regulatory networks utilizing single-cell RNA sequencing (scRNA-seq) data. These networks incorporate both transcription factors (TFs) and pathways obtained from Reactome (https://reactome.org). The code relies on the scpy4reactome package, which can be installed by following the instructions available at https://github.com/reactome-fi/fi_sc_analysis/tree/master/python.
+This repository provides the necessary code to construct gene expression regulatory networks utilizing single-cell RNA sequencing (scRNA-seq) data. These networks incorporate both transcription factors (TFs) and pathways obtained from Reactome (https://reactome.org). The code relies on the scpy4reactome package, which can be installed by following the instructions available at https://github.com/reactome-fi/fi_sc_analysis/tree/reactomefiviz_release_8.0.0/python.
 
 ### Repository Contents:
 - Python script to build regulatory networks using scRNA-seq
